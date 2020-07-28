@@ -1,0 +1,28 @@
+img{
+    width: 180px;
+    height: 200px;
+    border-radius: 50%;
+}
+h2{
+    color:#4f8a8b;
+}
+h3{
+    color:#4f8a8b;
+}
+hr{
+    border-color: rgb(173, 182, 182);
+    border-style: none;
+    width: 10%;
+    border-top-style:dotted;
+    border-width:7px;
+    
+}
+body{
+    background-color:#f4f6ff;
+}
+h1{
+    color:#fbd46d;
+}
+#anushka{
+    border-spacing:10px;
+}
